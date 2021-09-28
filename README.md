@@ -9,28 +9,31 @@ python course work degree 1st year python project instructions file
 2. then you can see menu like below
 
 
-    1-> Student Version
+                    1-> Student Version
     
     
-    2-> Student Version(Validation)
+                    2-> Student Version(Validation)
     
     
-    3-> Staff Version with Histogram
+                    3-> Staff Version with Histogram
     
     
-    4-> Staff Version Vertical Histogram
+                    4-> Staff Version Vertical Histogram
     
     
-    5-> Alternative Staff Version (optional extension)!!!You can use only one time..if u want run this again..exit and restart program..")
+                    5-> Alternative Staff Version (optional extension)!!!You can use only one time..if u want run this again..exit and restart program..")
     
     
-    6-> Exit
+                    6-> Exit
     
     
 
 3. using that menu u can easily access to every part of this program
 
-ThankYou!
 
 
-Developed by -|- Kasun Wijerathna
+
+                                                                ThankYou!
+
+
+                                                       Developed by -|- Kasun Wijerathna
