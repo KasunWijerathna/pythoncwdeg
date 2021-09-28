@@ -1,9 +1,14 @@
 # pythoncwdeg
 python course work degree 1st year python project instructions file
 
+
 1. open the main_menu.py
 
+
+
 2. then you can see menu like below
+
+
     1-> Student Version
     
     
@@ -20,6 +25,8 @@ python course work degree 1st year python project instructions file
     
     
     6-> Exit
+    
+    
 
 3. using that menu u can easily access to every part of this program
 
