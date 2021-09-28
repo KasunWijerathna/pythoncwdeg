@@ -21,7 +21,8 @@ python course work degree 1st year python project instructions file
                     4-> Staff Version Vertical Histogram
     
     
-                    5-> Alternative Staff Version (optional extension)!!!You can use only one time..if u want run this again..exit and restart program..")
+                    5-> Alternative Staff Version (optional extension)!!!You can use only one time..if u want run this again..
+                        exit and restart program..")
     
     
                     6-> Exit
